@@ -102,7 +102,7 @@ Fun Fact: "I'm either designing or coding (literally)..and surviving on coffee a
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-5E6F58?style=for-the-badge&logo=github&logoColor=0F1314&labelColor=0F1314)](https://github.com/ashykunii)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-5E6F58?style=for-the-badge&logo=linkedin&logoColor=0F1314&labelColor=0F1314)](https://linkedin.com/in/juan-ang-1307191b0)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-5E6F58?style=for-the-badge&logo=linkedin&logoColor=0F1314&labelColor=0F1314)](#)
 [![Email](https://img.shields.io/badge/EMAIL-5E6F58?style=for-the-badge&logo=gmail&logoColor=0F1314&labelColor=0F1314)](mailto:ssorya168@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-5E6F58?style=for-the-badge&logo=readdotcv&logoColor=0F1314&labelColor=0F1314)](#)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-5E6F58?style=for-the-badge&logo=instagram&logoColor=0F1314&labelColor=0F1314)](#)
