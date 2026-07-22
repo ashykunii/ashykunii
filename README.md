@@ -79,7 +79,6 @@ Fun Fact: "I'm either designing or coding (literally)..and surviving on coffee a
 </div>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashykunii&show_icons=true&theme=darkhub&bg_color=0F1314&title_color=9CAC98&text_color=c9d1d9&border_color=5E6F58&hide_border=false " width="96%" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashykunii&show_icons=true&theme=darkhub&bg_color=0F1314&title_color=9CAC98&text_color=c9d1d9&border_color=5E6F58&hide_border=false" width="31%" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashykunii&show_icons=true&theme=darkhub&bg_color=0F1314&title_color=9CAC98&text_color=c9d1d9&border_color=5E6F58&hide_border=false" width="31%" alt="Most Commit Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashykunii&show_icons=true&theme=darkhub&bg_color=0F1314&title_color=9CAC98&text_color=c9d1d9&border_color=5E6F58&hide_border=false" width="31%" alt="Stats" />
