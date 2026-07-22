@@ -15,17 +15,18 @@
 </div>
 <br>
 
-<img src="https://64.media.tumblr.com/c691b0b552ca1f1184e29a961043a5b8/13dc282b0e3c383f-75/s400x600/cf1add40f8aa17dbac82088d21de2c8e5d23e2b0.gifv" alt="<3" align="right" width="25%" height="15%">
+<!-- <img src="https://64.media.tumblr.com/c691b0b552ca1f1184e29a961043a5b8/13dc282b0e3c383f-75/s400x600/cf1add40f8aa17dbac82088d21de2c8e5d23e2b0.gifv" alt="<3" align="right" width="25%" height="15%"> -->
 
 ```csharp
-----------------˚₊‧ ★ °. 。.°★* ‧₊˚----------------
+---------------------˚₊‧ ★ °. 。.°★* ‧₊˚---------------------
 
 Username: ashykunii 
-WhoamI: 2nd year | Software Development, also a 2nd year | Graphic Design @IT STEP Academy.
+WhoamI: 2nd year | Software Development,
+also a 2nd year | Graphic Design @IT STEP Academy.
 Hobbies: designing, listening to music, doodling UI concepts
 Status: probably debugging something at 2am
 
----------------------------------------------------
+--------------------------------------------------------------
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F1314,100:5E6F58&height=3&width=100%" width="100%"/>
