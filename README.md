@@ -15,13 +15,12 @@
 </div>
 <br>
 
-<img src="https://64.media.tumblr.com/c691b0b552ca1f1184e29a961043a5b8/13dc282b0e3c383f-75/s400x600/cf1add40f8aa17dbac82088d21de2c8e5d23e2b0.gifv" alt="<3" align="right" width="25%" height="15%">
-
 ```csharp
 ----------------˚₊‧ ★ °. 。.°★* ‧₊˚----------------
 
 Username: ashykunii 
-WhoamI: 2nd year | Software Development, also a 2nd year | Graphic Design @IT STEP Academy.
+WhoamI: 2nd year | Software Development,
+also a 2nd year | Graphic Design @IT STEP Academy.
 Hobbies: designing, listening to music, doodling UI concepts
 Status: probably debugging something at 2am
 
@@ -108,11 +107,11 @@ Fun Fact: "I'm either designing or coding (literally)..and surviving on coffee a
 
 <div align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=ashykunii&show_icons=true&theme=dark&bg_color=0F1314&title_color=9CAC98&icon_color=5E6F58&text_color=c9d1d9&border_color=5E6F58&hide_border=false" width="50%"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ashykunii&layout=compact&theme=dark&bg_color=0F1314&title_color=9CAC98&text_color=c9d1d9&border_color=5E6F58&hide_border=false" width="50%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ashykunii&layout=compact&theme=dark&bg_color=0F1314&title_color=9CAC98&text_color=c9d1d9&border_color=5E6F58&hide_border=false" width="45%"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=ashykunii&theme=dark&background=0F1314&border=5E6F58&stroke=5E6F58&ring=9CAC98&fire=9CAC98&currStreakLabel=9CAC98" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=ashykunii&theme=dark&background=0F1314&border=5E6F58&stroke=5E6F58&ring=9CAC98&fire=9CAC98&currStreakLabel=9CAC98" width="96%"/>
 </div>
 
 <div align="center">
