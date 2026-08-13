@@ -51,7 +51,7 @@ I am currently a **2nd year Software Development** student following a **Informa
 Name: Sorya Sok
 Role: Developer & Designer
 Location: 🇰🇭 Cambodia
-Currently Learning: [Nothing at the moment, except for Interior Design 😭]
+Currently Learning: [Interior Design, 3D Max, PHP..]
 Fun Fact: "I'm either designing or coding (literally)..and surviving on coffee and energy drinks."
 ```
 
@@ -67,8 +67,8 @@ Fun Fact: "I'm either designing or coding (literally)..and surviving on coffee a
 
 |   |
 |---|
-| Currently working on **[For God Sake I'm Tryna Finish My Final Term Projects 😭]** |
-| Currently learning **[Autocad / Interior Design]** |
+| Currently working on **[I will survive this term...]** |
+| Currently learning **[3D Max / Interior Design / PHP]** |
 | Looking to collaborate on **[N/A]** |
 | Ask me about **[Design, Front-end, UI/UX]** |
 
