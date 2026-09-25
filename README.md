@@ -133,7 +133,7 @@ const ASHYKUNII = {
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-5E6F58?style=for-the-badge&logo=linkedin&logoColor=0F1314&labelColor=0F1314)](https://www.linkedin.com/in/sok-sorya-5081973b7)
 [![Email](https://img.shields.io/badge/EMAIL-5E6F58?style=for-the-badge&logo=gmail&logoColor=0F1314&labelColor=0F1314)](mailto:ssorya168@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-5E6F58?style=for-the-badge&logo=readdotcv&logoColor=0F1314&labelColor=0F1314)](#)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-5E6F58?style=for-the-badge&logo=instagram&logoColor=0F1314&labelColor=0F1314)](#)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-5E6F58?style=for-the-badge&logo=instagram&logoColor=0F1314&labelColor=0F1314)](https://www.instagram.com/ashykunii_/?hl=en)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-5E6F58?style=for-the-badge&logo=firefox&logoColor=0F1314&labelColor=0F1314)](#)
 
 </div>
